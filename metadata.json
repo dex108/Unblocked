@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Arcade",
+  "description": "Fast, clean unblocked games portal with instant iframe playable games, fullscreen theater mode, favorites, and custom game embed support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
